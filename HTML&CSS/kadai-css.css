@@ -1,0 +1,35 @@
+
+header{
+    background-color: #ffcccc;
+    width: 1000px;
+}
+
+#wrapper{
+    width: 1000px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+#main{
+    background-color: #ccffcc;
+    width: 70%;
+}
+
+#menu{
+    background-color: #ccccff;
+    width: 30%;
+}
+
+footer{
+    background-color: #ffccff;
+    margin: 0;
+    width: 1000px;
+}
+
+p{
+    margin: 0;
+}
+
+h1{
+    margin-top: 0;
+}
